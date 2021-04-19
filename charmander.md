@@ -1,3 +1,3 @@
-# choose a pokemon
+# Choose a pokemon
 
 # [Charmander](Journey.md)
