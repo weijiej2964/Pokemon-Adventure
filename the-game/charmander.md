@@ -6,5 +6,5 @@
 [Ainnoh](adventure.md)
 
 
-[Aloha](aloha.md)
+[Aloha](alola.md)
 
