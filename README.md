@@ -2,7 +2,7 @@
 
 The purpose of our create your own adventure is to practice collaboration while still making it enjoyable to others.We decided on Pokemon since we all had an interest in pokemon when we were younger and it was something we all had prior knowledge on.
 
-[Star Your Pokemon Adventure!!!(🛑You can't restart in the middle of the game)](the-game/start.md)
+[Star Your Pokemon Adventure!!!](the-game/start.md) (🛑You can't restart in the middle of the game)
 ![pokemon-adventure](https://raw.githubusercontent.com/weijiej2964/Pokemon-Adventure/main/img/pokemon-adventure.jpg)
 
 Blueprint:
