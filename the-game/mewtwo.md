@@ -1,0 +1,5 @@
+# A mewtwo has appeared
+### A white and purple figure standing infront of you looks intimadating, as you tried to escape the figure vanished and appear in the way of the entrance. 
+---
+[Faint](mfaint.md)  
+[Capture](mcapture.md)
