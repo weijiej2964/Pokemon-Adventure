@@ -3,4 +3,4 @@
 # You become the professor  
 ![professor](https://raw.githubusercontent.com/weijiej2964/Pokemon-Adventure/main/img/professor.jpg)
 ---
-[Start Over](start.md)  
+[Start Over](../README.md)  

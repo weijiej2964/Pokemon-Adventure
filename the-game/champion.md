@@ -4,4 +4,4 @@
 
 ![Champion](https://raw.githubusercontent.com/weijiej2964/Pokemon-Adventure/main/img/champion.png)
 ---
-[Start over](start.md)  
+[Start over](../README.md)  
