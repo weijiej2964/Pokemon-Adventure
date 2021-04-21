@@ -1,5 +1,8 @@
-# You have chosen Squirtle, A water Type Pokemon
-### Alola is full of legendary pokemon and Kanto is very Beginner Friendly.
-## Would You like to Alola Or Kanto?
+# You have chosen Squirtle, A water Type Pokemon  
+![Squirtle](https://raw.githubusercontent.com/weijiej2964/Pokemon-Adventure/main/img/squrtile-1.png) 
+### Alola is full of legendary pokemon and Kanto is very Beginner Friendly.  
+## Would You like to Alola Or Kanto?  
 [Alola](alola.md)  
-[Kanto](kanto.md)
+![Alola](https://raw.githubusercontent.com/weijiej2964/Pokemon-Adventure/main/img/aloha.png) 
+[Kanto](kanto.md)  
+![Kanto](https://raw.githubusercontent.com/weijiej2964/Pokemon-Adventure/main/img/kanto.png) 
