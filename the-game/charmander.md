@@ -1,3 +1,8 @@
-# Choose a pokemon
 
-# [Charmander](Journey.md)
+# You have choosen Chamander,and fire type pokemon.Start you journey by choosing between these 2 regions?
+
+
+[sinnoh](adventure.md)
+
+
+[Aloha](aloha.md)
