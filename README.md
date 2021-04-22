@@ -10,5 +10,5 @@ Blueprint:
 
 Credits:  
 [Andrew Chacon](https://github.com/andrewc4662)  
-[Jacky Gee](https://github.com/Jackyg1582)  
-[Wei Jie Jiang](https://github.com/weijiej2964)  
+[Jacky Gee](https://github.com/Jackyg1582)      
+[Wei Jie Jiang](https://github.com/weijiej2964)    
