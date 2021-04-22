@@ -3,7 +3,7 @@
 
 ![charmander](https://raw.githubusercontent.com/weijiej2964/Pokemon-Adventure/main/img/charmander.png)
 
-[Ainnoh](adventure.md)
+[Sinnoh](adventure.md)
 
 
 [Aloha](alola.md)
