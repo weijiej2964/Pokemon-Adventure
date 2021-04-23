@@ -2,4 +2,4 @@
 
 ## You go home and start your next day.
 
-[Start Over!](start.md)
+[Start Over!](../README.md)
