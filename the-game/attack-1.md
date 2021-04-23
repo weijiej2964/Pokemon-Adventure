@@ -2,4 +2,4 @@
 ![Magneton](https://raw.githubusercontent.com/weijiej2964/Pokemon-Adventure/main/img/Magneton-faint.png)
 ##  You go home and go to sleep early to get ready for the next day.
 
-[Start Over!](start.md)
+[Start Over?](../README.md)
