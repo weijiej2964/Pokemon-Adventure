@@ -8,7 +8,7 @@ The purpose of our creation is to create your own adventure and to practice coll
 Blueprint:
 [Google Drawing](https://docs.google.com/drawings/d/1I4qrEeYWMke3QI7ERc5ke5DP4G8p4NyWD0l1Hy8Xefs/edit?ts=60784eba)
 
-Credits:
-[Andrew Chacon](https://github.com/andrewc4662)
-[Jacky Gee](https://github.com/Jackyg1582)
-[Wei Jie Jiang](https://github.com/weijiej2964)
+Credits:  
+[Andrew Chacon](https://github.com/andrewc4662)  
+[Jacky Gee](https://github.com/Jackyg1582)      
+[Wei Jie Jiang](https://github.com/weijiej2964)    

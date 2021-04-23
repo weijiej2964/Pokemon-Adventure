@@ -1,5 +1,6 @@
 # You use 2 standard Pokeballs and capture magneton, helping you become an electric Gym leader.
+![Magneton](https://raw.githubusercontent.com/weijiej2964/Pokemon-Adventure/main/img/pokeball.png)
 
-## You go home and start your next day.
+## You go home and go to sleep early to get ready for the next day.
 
 [Start Over!](../README.md)
